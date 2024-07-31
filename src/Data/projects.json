@@ -1,0 +1,76 @@
+{
+    "projects": [
+      {
+        "title": "GPO Management and Implementation",
+        "start_date": "Jul 2024",
+        "end_date": "Present",
+        "associated_with": "Conestoga College",
+        "description": "Designed and implemented comprehensive Group Policy Objects (GPO) to manage and configure operating systems, applications, and user settings in a Windows Server environment. This project focused on enhancing security, efficiency, and consistency across the organization's network.",
+        "skills": [
+          "Windows Server",
+          "Active Directory",
+          "GPO",
+          "gpmc",
+          "MMC",
+          "Troubleshooting"
+        ]
+      },
+      {
+        "title": "Custom Cloud Infrastructure using VMware",
+        "start_date": "Sep 2023",
+        "end_date": "Dec 2023",
+        "associated_with": "Conestoga College",
+        "description": "Developed a custom cloud infrastructure leveraging VMware technologies including vCenter, ESXi, and Windows Server. This project involved the full lifecycle of setting up and managing a virtualized environment.",
+        "skills": [
+          "Virtualization",
+          "VMware vCenter, ESXi",
+          "Windows Server",
+          "iSCSI",
+          "NFS"
+        ]
+      },
+      {
+        "title": "DHCP Server",
+        "start_date": "Oct 2023",
+        "end_date": "Oct 2023",
+        "associated_with": "Conestoga College",
+        "description": "Administered the installation of DHCP server on Ubuntu via ISC-DHCP-SERVER. Tested the framework by creating machines and performed troubleshooting.",
+        "skills": [
+          "DHCPv6",
+          "DCHP",
+          "Dhcpd",
+          "Ubuntu",
+          "Troubleshooting"
+        ]
+      },
+      {
+        "title": "Linux web-server",
+        "start_date": "Aug 2023",
+        "end_date": "Aug 2023",
+        "associated_with": "Conestoga College",
+        "description": "Advocated installation of APACHE on Linux (Cent OS) to host the server. Inspected web server and worked on issues involved in running website.",
+        "skills": [
+          "CentOS",
+          "Httpd",
+          "Apache",
+          "Web Servers",
+          "Troubleshooting"
+        ]
+      },
+      {
+        "title": "Windows-Linux Integration",
+        "start_date": "Jun 2023",
+        "end_date": "Jun 2023",
+        "associated_with": "Conestoga College",
+        "description": "Collaborated with teammates to merge Windows active directory and Linux machine to access files of both the systems. Assessed bugs and evaluated the integration by sharing files from both the systems.",
+        "skills": [
+          "Teamwork",
+          "Windows",
+          "Linux",
+          "Samba",
+          "Troubleshooting"
+        ]
+      }
+    ]
+  }
+  

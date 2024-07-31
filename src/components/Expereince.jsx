@@ -2,10 +2,10 @@ import React from "react";
 
 const Expereince = () => {
   return (
-    <div className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto">
-      <h1 className="bg-gradient-to-r from-pink-500 to-purple-600 font-bold text-5xl bg-clip-text text-transparent">EXPERIENCE</h1>
-      <div className="container flex flex-col justify-center items-center mt-10 ">
-        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-10 m-4 w-[75%] flex items-center">
+    <div className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto ">
+      <h1 className="bg-gradient-to-r from-pink-500 to-purple-600 font-bold text-5xl bg-clip-text text-transparent mt-20">EXPERIENCE</h1>
+      <div className="container flex flex-col justify-center items-center mt-1">
+        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-5 m-2 w-[75%] flex items-center">
           <img className="h-20 pr-10"
             src="https://www.sikich.com/wp-content/uploads/2024/02/Webo.ArcticWolf.jpg"
             alt=""
@@ -17,7 +17,7 @@ const Expereince = () => {
             <div className="">
               January 2024 - April 2024
             </div>
-            <ul className="list-disc text-gray-300 pt-4">
+            <ul className="list-disc text-gray-300 pt-2">
               <li>
                 Provided frontline support in the Operations Center for global
                 security operations
@@ -38,7 +38,7 @@ const Expereince = () => {
             </ul>
           </div>
         </div>
-        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-10 m-4 w-[75%] flex  items-center">
+        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-10 m-2 w-[75%] flex  items-center">
         <img className="h-20  pr-10"
             src="https://pbs.twimg.com/profile_images/877241849676738560/AfFG893b_400x400.jpg"
             alt=""
@@ -67,7 +67,7 @@ const Expereince = () => {
           </ul>
           </div>
         </div>
-        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-10 m-4 w-[75%] flex items-center">
+        <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-10 m-2 w-[75%] flex items-center">
         <img className="h-20 pr-10"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqpEZ-zuvZETn8mZ5m4c14kygqXtb8Iqpsg&s"
             alt=""

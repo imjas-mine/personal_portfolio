@@ -13,10 +13,10 @@ const Navbar = () => {
     <div className='bg-gradient-to-r from-[#151b34]  to-[#030d35] h-[100px] text-gray-400 mx-auto flex justify-around items-center font-roboto sticky top-0 z-10'>
         <img className="w-12 h-12" src="https://cdn2.iconfinder.com/data/icons/devops-soft-fill/60/Developer-dev-male-person-user-avatar-programmer-512.png" alt="" />
         <ul className='hidden md:flex font-md text-xl '>
+            <li className='p-5 hover:text-white' ><a href='#about'>About</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Work</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Project</a></li>
-            <li className='p-5 hover:text-white' ><a href='#about'>About</a></li>
-            <li className='p-5 hover:text-white' ><a href='#about'>Volunteering</a></li>
+            <li className='p-5 hover:text-white' ><a href='#about'>Licences</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Contact</a></li>
         </ul>
       <div onClick={handleNav} className=" md:hidden">
@@ -28,7 +28,7 @@ const Navbar = () => {
             <li className='p-5 hover:text-white' ><a href='#about'>About</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Work</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Project</a></li>
-            <li className='p-5 hover:text-white' ><a href='#about'>Volunteering</a></li>
+            <li className='p-5 hover:text-white' ><a href='#about'>Licences</a></li>
             <li className='p-5 hover:text-white' ><a href='#about'>Contact</a></li>
         </ul>
       </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-import {hero_img} from "../../public/baly.png"
+import {getImageUrl} from "../utils";
 const Hero = () => {
   return (
     <div className="bg-gradient-to-r from-[#151b34]  to-[#030d35]  flex  items-center justify-center h-screen">
@@ -25,7 +25,7 @@ const Hero = () => {
       </div>
 
       <div className="image">
-        <img className="animate-float" src={hero_img} alt="" />
+        <img className="animate-float" src={getImageUrl("baly.png")} alt="" />
       </div>
     </div>
   );

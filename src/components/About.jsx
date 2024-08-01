@@ -1,5 +1,5 @@
 import React from "react";
-import {about_img} from "../../public/about.png"
+import {getImageUrl} from "../utils";
 const About = () => {
   return (
     <div id="about" className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto ">
@@ -9,7 +9,7 @@ const About = () => {
         </h1>
         <div className="flex w-full h-fit">
           <div className="w-[50%] flex  justify-center items-center ">
-            <img className="h-[400px]" src={about_img} alt="" />
+            <img className="h-[400px]" src={getImageUrl("about.png")} alt="" />
           </div>
           <div className="text-white w-[50%] flex flex-col justify-center items-center text-xl pr-10">
             <p>

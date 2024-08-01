@@ -1,19 +1,20 @@
 {
-    "projects": [
-      {
-        "title": "GPO Management and Implementation",
-        "start_date": "Jul 2024",
-        "end_date": "Present",
-        "associated_with": "Conestoga College",
-        "description": "Designed and implemented comprehensive Group Policy Objects (GPO) to manage and configure operating systems, applications, and user settings in a Windows Server environment. This project focused on enhancing security, efficiency, and consistency across the organization's network.",
-        "skills": [
-          "Windows Server",
-          "Active Directory",
-          "GPO",
-          "gpmc",
-          "MMC",
-          "Troubleshooting"
-        ]
+  "projects": [
+    {
+      "title": "GPO Management and Implementation",
+      "start_date": "Jul 2024",
+      "end_date": "Present",
+      "associated_with": "Conestoga College",
+      "description": "Designed and implemented comprehensive Group Policy Objects (GPO) to manage and configure operating systems, applications, and user settings in a Windows Server environment. This project focused on enhancing security, efficiency, and consistency across the organization's network.",
+      "skills": [
+        "Windows Server",
+        "Active Directory",
+        "GPO",
+        "gpmc",
+        "MMC",
+        "Troubleshooting"
+      ],
+      "image":"https://mlfk3cv5yvnx.i.optimole.com/cb:k-rC.2fd1d/w:auto/h:auto/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/2024/03/N1-0921-Group-Policy-Management-Console-blog-image1-1-1.png"
       },
       {
         "title": "Custom Cloud Infrastructure using VMware",
@@ -27,7 +28,8 @@
           "Windows Server",
           "iSCSI",
           "NFS"
-        ]
+        ],
+        "image":"https://www.storagereview.com/wp-content/uploads/2020/09/Storagereview-VMware-cloud.png"
       },
       {
         "title": "DHCP Server",
@@ -41,7 +43,8 @@
           "Dhcpd",
           "Ubuntu",
           "Troubleshooting"
-        ]
+        ],
+        "image":"https://miro.medium.com/v2/resize:fit:1024/1*nQZRrn2ZB1AIUparT2APTw.png"
       },
       {
         "title": "Linux web-server",
@@ -55,7 +58,8 @@
           "Apache",
           "Web Servers",
           "Troubleshooting"
-        ]
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIp1VsoLZBd4U_bSilrbR5sJrhAGVLmGqvWQ&s"
       },
       {
         "title": "Windows-Linux Integration",
@@ -69,7 +73,8 @@
           "Linux",
           "Samba",
           "Troubleshooting"
-        ]
+        ],
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisgwObOEXdTLAnBih1RxI52m-W7hfrm75SRqOFjr7WHi659fMzl9O6j-a6R_a5wr6Uk8qNhn5-2_Bmrzh5uxETFYdtT4vMpFfuiKkd3hsdH2kahahTI8_0CfDqFTS_l_aoeqqq3PxnTpbq9No_jkDF3w7e1ByQCpha45h0bxFpd-92x9lTvYDMS3nnqUg/s0-rw/windows-subsystem-for-linux-min.jpg"
       }
     ]
   }

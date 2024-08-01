@@ -2,8 +2,8 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto h-screen">
-      <div className="bg-slate-950 w-[85%] flex flex-col items-center h-[600px]">
+    <div id="about" className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto ">
+      <div className="bg-slate-950 w-[85%] flex flex-col items-center h-[600px] mt-20">
         <h1 className="bg-gradient-to-r from-pink-500 to-purple-600 font-bold text-5xl bg-clip-text text-transparent py-10">
           ABOUT
         </h1>

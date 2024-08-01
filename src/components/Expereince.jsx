@@ -2,8 +2,8 @@ import React from "react";
 
 const Expereince = () => {
   return (
-    <div className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto ">
-      <h1 className="bg-gradient-to-r from-pink-500 to-purple-600 font-bold text-5xl bg-clip-text text-transparent mt-20">EXPERIENCE</h1>
+    <div id="work" className="bg-gradient-to-r from-[#151b34]  to-[#030d35] flex flex-col justify-center items-center font-roboto ">
+      <h1  className="bg-gradient-to-r from-pink-500 to-purple-600 font-bold text-5xl bg-clip-text text-transparent mt-28">EXPERIENCE</h1>
       <div className="container flex flex-col justify-center items-center mt-1">
         <div className="text-white bg-gradient-to-r from-[#2c3a74] to-[#030d35] p-5 m-2 w-[75%] flex items-center">
           <img className="h-20 pr-10"

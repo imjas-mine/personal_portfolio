@@ -24,7 +24,7 @@ const Hero = () => {
       </div>
 
       <div className="image">
-        <img className="animate-float" src="./src/assets/baly.png" alt="" />
+        <img className="animate-float" src="../../public/baly.png" alt="" />
       </div>
     </div>
   );
